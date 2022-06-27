@@ -16,16 +16,16 @@ export default function Stats() {
         </div>
 
         <div className="p-5 flex flex-col text-center justify-center gap-6 mt-6 md:max-w-sm md:mx-9 lg:max-w-lg">
-          <h1 className="text-3xl font-bold text-center md:text-left ">
-            Get <span className="text-[#AA5CDB]">insights</span> that help your
-            business grow.
+          <h1 className="text-3xl font-bold text-center md:text-left lg:text-[38px] md:mr-6 ">
+            Get <span className="text-[#AA5CDB] leading-relaxed	">insights</span>{" "}
+            that help your business grow.
           </h1>
-          <p className="text-[#73708B] md:text-left md:text-sm lg:max-w-sm">
+          <p className="text-[#73708B] md:text-left text-[15px]  lg:max-w-sm ">
             Discover the benefits of data analytics and make better decisions
             regarding revenue, customer experience, and overall efficiency.{" "}
           </p>
 
-          <div className="flex flex-col md:flex-row gap-8  text-center my-5 mb-8">
+          <div className="flex flex-col md:flex-row gap-8  text-center my-5 mb-8 lg:mt-16">
             <span>
               <h3 className="font-bold text-2xl">10k+</h3>
               <p className="text-sm lexend text-[#73708B] mt-1 ">COMPANIES</p>
